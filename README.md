@@ -1,1 +1,1 @@
-# Encapsulation_in_Action
+# I show how the encapsulation principle works in Dart.
